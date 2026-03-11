@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "首页",
+    "section": "",
+    "text": "这是我使用 Quarto 创建的个人网站作业。\n\n\n\n学号：2025303110057\n姓名：张振阳 ## 网站说明 本网站使用 Quarto 构建，并发布到 GitHub Pages。"
+  },
+  {
+    "objectID": "index.html#基本信息",
+    "href": "index.html#基本信息",
+    "title": "首页",
+    "section": "",
+    "text": "学号：2025303110057\n姓名：张振阳 ## 网站说明 本网站使用 Quarto 构建，并发布到 GitHub Pages。"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
